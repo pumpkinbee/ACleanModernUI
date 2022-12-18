@@ -1,0 +1,13 @@
+:root.cleanModernDark{
+    --accent-color: #396dd1;
+    --blur-filter: saturate(200%) blur(50px);
+    --corner-radius: 15px;
+    --text-color: #eeeeee;
+    --blur-background: #292929a8;
+    --blur-background-thick: #262626f0;
+    --blur-foreground: #ffffffa3;
+    --blur-foreground-bright: #ffffffde;
+    --drop-shadow: 0 0 9px #0000006e;
+    --faintest-color: #00000014;
+  }
+  
